@@ -1,0 +1,14 @@
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\obj\Debug\PractWork8.csprojAssemblyReference.cache
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\obj\Debug\PractWork8.MainForm.resources
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\obj\Debug\PractWork8.Properties.Resources.resources
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\obj\Debug\PractWork8.Task1.resources
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\obj\Debug\PractWork8.csproj.GenerateResource.cache
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\obj\Debug\PractWork8.csproj.CoreCompileInputs.cache
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\bin\Debug\PractWork8.exe.config
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\bin\Debug\PractWork8.exe
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\bin\Debug\PractWork8.pdb
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\obj\Debug\PractWork8.exe
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\obj\Debug\PractWork8.pdb
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\obj\Debug\PractWork8.AnimationForm.resources
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\obj\Debug\PractWork8.MultitabForm.resources
+D:\VisualStudio\College\C#\Forms\PractWork8\PractWork8\obj\Debug\PractWork8.GenerationForm.resources
